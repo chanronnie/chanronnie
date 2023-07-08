@@ -1,4 +1,3 @@
-![Header](github-header-image.png)
 <h1>
 Hi, I'm Ronnie 👋
 </h1>
