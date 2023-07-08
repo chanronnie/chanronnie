@@ -4,11 +4,11 @@ Hi, I'm Ronnie 👋
 
 
 ## About Me
-- :basecamp: Graduated from a Bootcamp in **Data Science from Concordia University**.
+- :basecamp: Graduated from a Bootcamp in **Data Science from Concordia University**
 - 🔬 Transitioning from medical laboratory to data field
 - 🤓 Prefer **free online resources** for continuous learning
 - :octocat: Currently working on [#8WeekSQLChallenge](https://github.com/chanronnie/8WeekSQLChallenge)
-- 💻 My go-to learning platforms: ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+- 💻 My go-to learning platforms: YouTube · Medium · Udemy · ChatGPT
 
 
 ## Languages and Tools: 
