@@ -1,6 +1,8 @@
-<h1>
-Hi, I'm Ronnie 👋
-</h1>
+<div align="center">
+  
+# Hi 👋, I'm Ronnie 
+
+</div>
 
 
 ## About Me
