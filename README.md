@@ -9,7 +9,7 @@
 - :basecamp: Graduated from a Bootcamp in **Data Science from Concordia University**
 - 🔬 Transitioning from medical laboratory to data field
 - 🤓 Prefer **free online resources** for continuous learning
-- :octocat: Currently working on [#8WeekSQLChallenge](https://github.com/chanronnie/8WeekSQLChallenge)
+- :octocat: Currently working on [Olympics Athletes Web Scraping Project](https://github.com/chanronnie/Olympics)
 - 💻 My go-to learning platforms: YouTube · Medium · Udemy · ChatGPT
 
 
