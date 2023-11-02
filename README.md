@@ -9,7 +9,7 @@
 - :basecamp: Graduated from a Bootcamp in **Data Science from Concordia University**
 - 🔬 Transitioning from medical laboratory to data field
 - 🤓 Prefer **free online resources** for continuous learning
-- :octocat: Currently working on [Advanced Excel Dashboard Design Course - Maven Analytics](https://github.com/chanronnie/Advanced_Excel_Dashboard_Design)
+- :octocat: Currently learning how to design a dashboard using Excel 
 - 💻 My go-to learning platforms: YouTube · Medium · Udemy · ChatGPT
 
 
