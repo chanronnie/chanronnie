@@ -1,4 +1,8 @@
+<div align="center">
 
+<img src="https://github.com/chanronnie/chanronnie/blob/main/GitHub_Banner.png" alt="my banner">
+
+</div>
 
 
 ## About Me
