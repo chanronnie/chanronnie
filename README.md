@@ -9,7 +9,7 @@
 - :basecamp: Graduated from a Bootcamp in **Data Science from Concordia University**
 - 🔬 Transitioning from medical laboratory to data field
 - 🤓 Prefer **free online resources** for continuous learning
-- :octocat: Currently learning **Java**
+- :octocat: Currently learning **HTML CSS & JavaScript**
 - 💻 My go-to learning platforms: YouTube · Medium · Udemy · ChatGPT
 
 
