@@ -5,21 +5,29 @@
 </div>
 
 
-## About Me
-- :basecamp: Graduated from a Bootcamp in **Data Science from Concordia University**
-- 🔬 Transitioning from medical laboratory to data field
-- 🤓 Prefer **free online resources** for continuous learning
-- :octocat: Currently learning **HTML CSS & JavaScript**
-- 💻 My go-to learning platforms: YouTube · Medium · Udemy · ChatGPT
+## About Me 
+
+- 💻 I'm a undergraduate student in Computer Science.
+- 🔬 I used to work in a hospital lab and graduated from a data science bootcamp before.
+- 🎨 Fun fact: I love playing around with CSS because I like making things look pretty!
+
+<br>
 
 
-## Languages and Tools: 
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-217346?style=for-the-badge&logo=google-sheets&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+<div align="center">
+  
+If you like my work, don’t forget to give it a ⭐!
+  
+---
+  
+![HTML5](https://img.shields.io/badge/-HTML5-000?logo=html5&logoColor=000&labelColor=f8bf7f)
+![CSS3](https://img.shields.io/badge/-CSS3-000?logo=css3&logoColor=000&labelColor=f8bf7f)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=000&labelColor=f8bf7f)
+![python](https://img.shields.io/badge/-Python-000?logo=python&logoColor=000&labelColor=f8bf7f)
+![MySQL](https://img.shields.io/badge/-MySQL-000?logo=mysql&logoColor=000&labelColor=f8bf7f)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql&logoColor=000&labelColor=f8bf7f)
+![SQLite](https://img.shields.io/badge/-SQLite-000?logo=SQLite&logoColor=000&labelColor=f8bf7f)
+![JavaScript](https://img.shields.io/badge/-Tableau-000?logo=tableau&logoColor=000&labelColor=f8bf7f)
 
-
-
-
-
-
-
+</div>
 
