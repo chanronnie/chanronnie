@@ -7,7 +7,7 @@
 
 ## About Me 
 
-- 💻 I'm a undergraduate student in Computer Science.
+- 💻 I'm an undergraduate student in Computer Science.
 - 🔬 I used to work in a hospital lab and graduated from a data science bootcamp before.
 - 🎨 Fun fact: I love playing around with CSS because I like making things look pretty!
 
