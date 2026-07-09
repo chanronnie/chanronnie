@@ -7,8 +7,8 @@
 
 ## About Me 
 
-- 💻 I'm an undergraduate student in Computer Science.
-- 🔬 I used to work in a hospital lab and graduated from a data science bootcamp before.
+- 💻 I'm a recent graduate student in Computer Science.
+- 🔬 I used to work in a hospital as a Medical Lab Technologist and graduated from a data science bootcamp before.
 - 🎨 Fun fact: I love playing around with CSS because I like making things look pretty!
 
 <br>
